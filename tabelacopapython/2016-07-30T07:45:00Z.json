@@ -1,0 +1,68 @@
+[
+  {
+    "grupo": "A",
+    "times": [
+      {
+        "time": "brasil",
+        "pontos": 50,
+        "partidas_jogadas": 2,
+        "vitorias": 4,
+        "empates": 2,
+        "gols_pro": 1,
+        "gols_contra": 0,
+        "saldo_de_gols": 5
+      },
+      {
+        "time": "bolivia",
+        "pontos": 50,
+        "partidas_jogadas": 2,
+        "vitorias": 4,
+        "empates": 2,
+        "gols_pro": 1,
+        "gols_contra": 0,
+        "saldo_de_gols": 5
+      },
+      {
+        "time": "qatar",
+        "pontos": 50,
+        "partidas_jogadas": 2,
+        "vitorias": 4,
+        "empates": 2,
+        "gols_pro": 1,
+        "gols_contra": 0,
+        "saldo_de_gols": 5
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "times": [
+      {
+        "time": "alemanha",
+        "pontos": 50,
+        "partidas_jogadas": 2,
+        "vitorias": 4,
+        "empates": 2,
+        "gols_pro": 1,
+        "gols_contra": 0,
+        "saldo_de_gols": 5
+      }
+    ]
+  },
+  {
+    "grupo": "C",
+    "times": []
+  },
+  {
+    "grupo": "C",
+    "times": []
+  },
+  {
+    "grupo": "C",
+    "times": []
+  },
+  {
+    "grupo": "C",
+    "times": []
+  }
+]

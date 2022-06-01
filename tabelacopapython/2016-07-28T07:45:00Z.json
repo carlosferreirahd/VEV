@@ -1,0 +1,22 @@
+[
+  {
+    "grupo": "A",
+    "times": [
+      {
+        "time": "brasil",
+        "pontos": 1,
+        "partidas_jogadas": 2
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "times": [
+      {
+        "time": "qatar",
+        "pontos": 3,
+        "partidas_jogadas": 4
+      }
+    ]
+  }
+]

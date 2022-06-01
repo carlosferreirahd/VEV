@@ -1,0 +1,48 @@
+[
+  {
+    "grupo": "A",
+    "times": [
+      {
+        "time": "brasil",
+        "pontos": 2,
+        "partidas_jogadas": 2
+      },
+      {
+        "time": "qatar",
+        "pontos": 3,
+        "partidas_jogadas": 4
+      },
+      {
+        "time": "qatar",
+        "pontos": 3,
+        "partidas_jogadas": 4
+      }
+    ]
+  },
+  {
+    "grupo": "B",
+    "times": [
+      {
+        "time": "qatar",
+        "pontos": 3,
+        "partidas_jogadas": 4
+      }
+    ]
+  },
+  {
+    "grupo": "C",
+    "times": []
+  },
+  {
+    "grupo": "C",
+    "times": []
+  },
+  {
+    "grupo": "C",
+    "times": []
+  },
+  {
+    "grupo": "C",
+    "times": []
+  }
+]
